@@ -60,6 +60,8 @@ h2 {
 
 .links a img {
   margin: 0 0 0.25rem 0;
+  width: 40px;
+  height: 40px;
 }
 
 .links a {
